@@ -20,4 +20,4 @@ I try not to memorize. I decompose problems, map patterns, and translate logic i
 
 *Currently sharpening DSA fluency and looking for opportunities where I can build real systems with real stakes.*
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bttaleb)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bassel-taleb)
