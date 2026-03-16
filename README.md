@@ -9,8 +9,8 @@ I'm addicted to learning and enjoy trying to bridge the gap between theory and w
 ### 🔧 What I Work With
 `C` · `Java` · `Swift` · `Python`
 
-### 🚀 What I'm Building
-- **ChessCards 2.0** — A Swift project combining strategy game mechanics *(in progress)*
+### 🚀 What I'm Working On
+- **ChessCards** — A project combining strategy game mechanics *(in progress)*
 - Hands-on implementations of producer-consumer systems, NFA simulators, and algorithm pattern libraries
 
 ### 📌 How I Work
