@@ -12,6 +12,7 @@ I'm addicted to learning and enjoy trying to bridge the gap between theory and w
 ### 🚀 What I'm Working On
 - **ChessCards** — A project combining strategy game mechanics *(in progress)*
 - Hands-on implementations of producer-consumer systems, NFA simulators, and algorithm pattern libraries
+- **Couler** - A quality assurance product for fashion desginers and students
 
 ### 📌 How I Work
 I try not to memorize. I decompose problems, map patterns, and translate logic into code I can defend line by line. I document *why*, not just *what*.
